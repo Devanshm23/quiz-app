@@ -6,7 +6,7 @@ Users can attempt quizzes such as **DSA**, **Operating Systems**, and **DBMS**, 
 ---
 
 ## 🚀 Demo  
-https://yourquizapp.netlify.app/
+https://yourquizapp.netlify.app/](https://startling-beignet-f7498d.netlify.app/
 
 ---
 
