@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 import quizData from "./assets/quizData";
 import HomePage from "./pages/HomePage";
-import QuizPage from "./pages/quizPage";
+import QuizPage from "./pages/QuizPage";
 import ResultsPage from "./pages/ResultsPage";
 
 const App = () => {
